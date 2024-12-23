@@ -1,0 +1,26 @@
+{
+  "name": "contactmanager-backend-api",
+  "version": "1.0.0",
+  "description": "this is a contact manager application that i am learning nodejs and expressjs while implementing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaledkhedr18/NodeJS-ExpressJS-Project.git"
+  },
+  "author": "Khaled Khedr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khaledkhedr18/NodeJS-ExpressJS-Project/issues"
+  },
+  "homepage": "https://github.com/khaledkhedr18/NodeJS-ExpressJS-Project#readme",
+  "devDependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
